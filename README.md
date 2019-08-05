@@ -1,4 +1,4 @@
-TicTacToe Application: Is A Simple And Easy Journal Entry Notebook. This Application Runs On Terminal And Is Capable Of:
+TicTacToe Application: This Is A Fun Game Which Runs On Terminal:
 * Can Be Played By 2 Users (No Computer)
 * Takes Input From Users From 1-9
 
